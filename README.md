@@ -123,11 +123,11 @@ The colors of AVSOPS were selected not just for aesthetic appeal, but for their 
 
 <table>
   <tr>
-    <td align="center"><img src="https://via.placeholder.com/100x80/1C2F5B/1C2F5B" alt="Navy"><br><strong>Deep Navy Blue</strong><br><code>#1C2F5B</code></td>
-    <td align="center"><img src="https://via.placeholder.com/100x80/E51D39/E51D39" alt="Red"><br><strong>Bold Patriot Red</strong><br><code>#E51D39</code></td>
-    <td align="center"><img src="https://via.placeholder.com/100x80/FFD700/FFD700" alt="Gold"><br><strong>Pure Gold</strong><br><code>#FFD700</code></td>
-    <td align="center"><img src="https://via.placeholder.com/100x80/FFCD57/FFCD57" alt="Mustard"><br><strong>Yellow-Mustard</strong><br><code>#FFCD57</code></td>
-    <td align="center"><img src="https://via.placeholder.com/100x80/67768E/67768E" alt="Grey"><br><strong>Grey Border</strong><br><code>#67768E</code></td>
+    <td align="center"><img src="colors/swatch-navy.svg" width="100" height="100" alt="Navy #1C2F5B"><br><strong>Deep Navy Blue</strong><br><code>#1C2F5B</code></td>
+    <td align="center"><img src="colors/swatch-red.svg" width="100" height="100" alt="Red #E51D39"><br><strong>Bold Patriot Red</strong><br><code>#E51D39</code></td>
+    <td align="center"><img src="colors/swatch-gold.svg" width="100" height="100" alt="Gold #FFD700"><br><strong>Pure Gold</strong><br><code>#FFD700</code></td>
+    <td align="center"><img src="colors/swatch-mustard.svg" width="100" height="100" alt="Mustard #FFCD57"><br><strong>Yellow-Mustard</strong><br><code>#FFCD57</code></td>
+    <td align="center"><img src="colors/swatch-grey.svg" width="100" height="100" alt="Grey #67768E"><br><strong>Grey Border</strong><br><code>#67768E</code></td>
   </tr>
 </table>
 
