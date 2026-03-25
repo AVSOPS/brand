@@ -133,40 +133,40 @@ The colors of AVSOPS were selected not just for aesthetic appeal, but for their 
 
 ### Color Meanings
 
-| Color | Hex | CSS Variable | Meaning & Usage |
-|-------|-----|-------------|-----------------|
-| **Deep Navy Blue** | `#1C2F5B` | `--color-navy` | Service, integrity, and profound duty. The color of the deep oceans and the steadfast uniforms of our naval forces. Used for primary text, headers, and backgrounds. |
-| **Bold Patriot Red** | `#E51D39` | `--color-red` | Patriotism in action and unflagging energy. Represents the lifeblood of the organization — the active, relentless spirit required to advocate day after day. Used for the logo enclosure, accents, and alerts. |
-| **Pure Gold** | `#FFD700` | `--color-gold` | Achievement, valor, and emphasis. Used for highlights, badges, and honor indicators. |
-| **Yellow-Mustard** | `#FFCD57` | `--color-mustard` | Warmth and accessibility. Used for buttons and secondary interactive elements. |
-| **Grey Border** | `#67768E` | — | Structure and order. Used for borders, dividers, and subtle UI elements. |
-| **Pure White** | `#FFFFFF` | — | Transparency, objectivity, and hope. The field of clarity on which our message rests. |
+| Swatch | Color | Hex | CSS Variable | Meaning & Usage |
+|--------|-------|-----|-------------|-----------------|
+| <img src="colors/swatch-navy.svg" width="32" height="32"> | **Deep Navy Blue** | `#1C2F5B` | `--color-navy` | Service, integrity, and profound duty. The color of the deep oceans and the steadfast uniforms of our naval forces. Used for primary text, headers, and backgrounds. |
+| <img src="colors/swatch-red.svg" width="32" height="32"> | **Bold Patriot Red** | `#E51D39` | `--color-red` | Patriotism in action and unflagging energy. Represents the lifeblood of the organization — the active, relentless spirit required to advocate day after day. Used for the logo enclosure, accents, and alerts. |
+| <img src="colors/swatch-gold.svg" width="32" height="32"> | **Pure Gold** | `#FFD700` | `--color-gold` | Achievement, valor, and emphasis. Used for highlights, badges, and honor indicators. |
+| <img src="colors/swatch-mustard.svg" width="32" height="32"> | **Yellow-Mustard** | `#FFCD57` | `--color-mustard` | Warmth and accessibility. Used for buttons and secondary interactive elements. |
+| <img src="colors/swatch-grey.svg" width="32" height="32"> | **Grey Border** | `#67768E` | — | Structure and order. Used for borders, dividers, and subtle UI elements. |
+| <img src="colors/swatch-white.svg" width="32" height="32"> | **Pure White** | `#FFFFFF` | — | Transparency, objectivity, and hope. The field of clarity on which our message rests. |
 
 ### Extended Palette
 
-| Color | Hex | CSS Variable | Usage |
-|-------|-----|-------------|-------|
-| Navy Light | `#2a4275` | `--color-navy-light` | Lighter navy variant |
-| Navy Dark | `#0a1628` | `--color-navy-dark` | Deep backgrounds, footer |
-| Red Dark | `#b8162e` | `--color-red-dark` | Hover states |
-| Gold Light | `#ffe033` | `--color-gold-light` | Light gold variant |
-| Gold Dark | `#c9a227` | `--color-gold-dark` | Link hover states |
-| Mustard Dark | `#e6b84d` | `--color-mustard-dark` | Button hover states |
-| Off-White | `#f5f4f1` | `--color-off-white` | Page backgrounds |
-| Warm White | `#faf9f7` | `--color-white` | Card backgrounds |
-| Light Gray | `#e8e6e1` | `--color-gray-light` | Subtle borders |
-| Mid Gray | `#6c757d` | `--color-gray` | Secondary text |
-| Dark Gray | `#343a40` | `--color-gray-dark` | Body text |
-| Near Black | `#1a1a1a` | `--color-black` | Maximum contrast |
+| Swatch | Color | Hex | CSS Variable | Usage |
+|--------|-------|-----|-------------|-------|
+| <img src="colors/swatch-navy-light.svg" width="32" height="32"> | Navy Light | `#2a4275` | `--color-navy-light` | Lighter navy variant |
+| <img src="colors/swatch-navy-dark.svg" width="32" height="32"> | Navy Dark | `#0a1628` | `--color-navy-dark` | Deep backgrounds, footer |
+| <img src="colors/swatch-red-dark.svg" width="32" height="32"> | Red Dark | `#b8162e` | `--color-red-dark` | Hover states |
+| <img src="colors/swatch-gold-light.svg" width="32" height="32"> | Gold Light | `#ffe033` | `--color-gold-light` | Light gold variant |
+| <img src="colors/swatch-gold-dark.svg" width="32" height="32"> | Gold Dark | `#c9a227` | `--color-gold-dark` | Link hover states |
+| <img src="colors/swatch-mustard-dark.svg" width="32" height="32"> | Mustard Dark | `#e6b84d` | `--color-mustard-dark` | Button hover states |
+| <img src="colors/swatch-off-white.svg" width="32" height="32"> | Off-White | `#f5f4f1` | `--color-off-white` | Page backgrounds |
+| <img src="colors/swatch-warm-white.svg" width="32" height="32"> | Warm White | `#faf9f7` | `--color-white` | Card backgrounds |
+| <img src="colors/swatch-light-gray.svg" width="32" height="32"> | Light Gray | `#e8e6e1` | `--color-gray-light` | Subtle borders |
+| <img src="colors/swatch-mid-gray.svg" width="32" height="32"> | Mid Gray | `#6c757d` | `--color-gray` | Secondary text |
+| <img src="colors/swatch-dark-gray.svg" width="32" height="32"> | Dark Gray | `#343a40` | `--color-gray-dark` | Body text |
+| <img src="colors/swatch-near-black.svg" width="32" height="32"> | Near Black | `#1a1a1a` | `--color-black` | Maximum contrast |
 
 ### Functional Colors
 
-| Color | Hex | CSS Variable | Usage |
-|-------|-----|-------------|-------|
-| Success | `#28a745` | `--color-success` | Confirmations, positive actions |
-| Warning | `#ffc107` | `--color-warning` | Caution indicators |
-| Error | `#dc3545` | `--color-error` | Error states, destructive actions |
-| Info | `#17a2b8` | `--color-info` | Informational messages |
+| Swatch | Color | Hex | CSS Variable | Usage |
+|--------|-------|-----|-------------|-------|
+| <img src="colors/swatch-success.svg" width="32" height="32"> | Success | `#28a745` | `--color-success` | Confirmations, positive actions |
+| <img src="colors/swatch-warning.svg" width="32" height="32"> | Warning | `#ffc107` | `--color-warning` | Caution indicators |
+| <img src="colors/swatch-error.svg" width="32" height="32"> | Error | `#dc3545` | `--color-error` | Error states, destructive actions |
+| <img src="colors/swatch-info.svg" width="32" height="32"> | Info | `#17a2b8` | `--color-info` | Informational messages |
 
 ### CSS Import
 
