@@ -249,24 +249,14 @@ All logos are organized by format:
 
 AVSOPS catalogs veteran organizations spanning 11 American war periods. Each has a distinctive 512x512 icon:
 
-<table>
-  <tr>
-    <td align="center"><img src="war-icons/AVSOPS-american-revolution-icon_512x512.png" width="80"><br><sub>American<br>Revolution</sub></td>
-    <td align="center"><img src="war-icons/AVSOPS-war-of-1812-icon_512x512.png" width="80"><br><sub>War of<br>1812</sub></td>
-    <td align="center"><img src="war-icons/AVSOPS-mexican-american-war-icon_512x512.png" width="80"><br><sub>Mexican-<br>American War</sub></td>
-    <td align="center"><img src="war-icons/AVSOPS-civil-war-icon_512x512.png" width="80"><br><sub>Civil<br>War</sub></td>
-    <td align="center"><img src="war-icons/AVSOPS-spanish-american-war-icon_512x512.png" width="80"><br><sub>Spanish-<br>American War</sub></td>
-    <td align="center"><img src="war-icons/AVSOPS-world-war-1-icon_512x512.png" width="80"><br><sub>World<br>War I</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="war-icons/AVSOPS-world-war-2-icon_512x512.png" width="80"><br><sub>World<br>War II</sub></td>
-    <td align="center"><img src="war-icons/AVSOPS-korean-war-icon_512x512.png" width="80"><br><sub>Korean<br>War</sub></td>
-    <td align="center"><img src="war-icons/AVSOPS-vietnam-war-icon_512x512.png" width="80"><br><sub>Vietnam<br>War</sub></td>
-    <td align="center"><img src="war-icons/AVSOPS-gulf-war-icon_512x512.png" width="80"><br><sub>Gulf<br>War</sub></td>
-    <td align="center"><img src="war-icons/AVSOPS-war-on-terror-icon_512x512.png" width="80"><br><sub>War on<br>Terror</sub></td>
-    <td></td>
-  </tr>
-</table>
+| Icon | War Period | Icon | War Period |
+|:----:|:-----------|:----:|:-----------|
+| <img src="war-icons/AVSOPS-american-revolution-icon_512x512.png" width="80"> | **American Revolution** | <img src="war-icons/AVSOPS-war-of-1812-icon_512x512.png" width="80"> | **War of 1812** |
+| <img src="war-icons/AVSOPS-mexican-american-war-icon_512x512.png" width="80"> | **Mexican-American War** | <img src="war-icons/AVSOPS-civil-war-icon_512x512.png" width="80"> | **Civil War** |
+| <img src="war-icons/AVSOPS-spanish-american-war-icon_512x512.png" width="80"> | **Spanish-American War** | <img src="war-icons/AVSOPS-world-war-1-icon_512x512.png" width="80"> | **World War I** |
+| <img src="war-icons/AVSOPS-world-war-2-icon_512x512.png" width="80"> | **World War II** | <img src="war-icons/AVSOPS-korean-war-icon_512x512.png" width="80"> | **Korean War** |
+| <img src="war-icons/AVSOPS-vietnam-war-icon_512x512.png" width="80"> | **Vietnam War** | <img src="war-icons/AVSOPS-gulf-war-icon_512x512.png" width="80"> | **Gulf War** |
+| <img src="war-icons/AVSOPS-war-on-terror-icon_512x512.png" width="80"> | **War on Terror** | | |
 
 All icons are located in [`war-icons/`](war-icons/) at 512x512 PNG resolution.
 
